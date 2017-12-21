@@ -1,0 +1,56 @@
+HUD
+    Level
+    HP
+    STAMINA
+
+Account
+    Email
+    Password
+
+Character
+    Creation(if not done already)
+        Username
+        Photo(optional)
+
+    Username
+    Photo
+    Stats 
+        Power
+        Speed
+        Defence
+        Precision
+        Determination
+    
+Skills
+    Upgrade Skills
+    Learn new Skills
+
+Equipment
+    (Boosts stats when worn)
+        Helm
+        Torso
+        Legs
+        Gloves
+        Boots
+        Weapon 1
+        Weapon 2
+
+Inventory
+    Food
+
+Store
+    Food
+    Equipment
+
+Map
+    10 levels
+    3 camps each level
+    Boss Room each level
+
+Quests
+
+Party
+    1-4 players
+
+PVP
+    1v1

@@ -8,11 +8,12 @@ import { Home } from 'components/'
 export default () => (
 <BrowserRouter>
     <Provider store={store}>
+      <div>
+      <h1>hi</h1>
       <Switch>
         <Route exact path='/' component={Home}></Route>
       </Switch>
+      </div>
     </Provider>
 </BrowserRouter>
 )
-
-

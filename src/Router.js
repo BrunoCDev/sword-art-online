@@ -3,17 +3,14 @@ import { Provider } from 'react-redux'
 import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
 import store from 'store'
-import { Home } from 'components/'
+import { Layout } from 'components/'
 
 export default () => (
 <BrowserRouter>
     <Provider store={store}>
-      <div>
-      <h1>hi</h1>
       <Switch>
-        <Route exact path='/' component={Home}></Route>
+        <Route exact path='/' component={Layout}></Route>
       </Switch>
-      </div>
     </Provider>
 </BrowserRouter>
 )

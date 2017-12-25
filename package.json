@@ -10,12 +10,15 @@
     "massive": "^4.5.0",
     "node": "^9.3.0",
     "nodemon": "^1.14.1",
+    "normalize.css": "^7.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.17",
-    "redux": "^3.7.2"
+    "redux": "^3.7.2",
+    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.77.1"
   },
   "scripts": {
     "start": "NODE_PATH=./src react-scripts start",
